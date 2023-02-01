@@ -1,0 +1,41 @@
+#IDTextSelector {
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;
+color: gold;
+}
+
+
+article>p {
+letter-spacing: 2px;
+
+}
+
+.Textcolor {
+
+    color: navy;
+}
+
+#textshadow p {
+    text-shadow: 3px 3px 6px;color: blue;
+}
+
+#Spook+p{
+
+    background-color: blueviolet;
+
+    letter-spacing: 30px;
+
+}
+
+#Spook0+h2{
+background-color: blueviolet;
+
+}
+
+header>h2{
+border-color: blueviolet;
+border-style: groove;
+letter-spacing: 25px;
+text-shadow: 3px 3px 6px;color: crimson;
+background-color: blue;
+}
