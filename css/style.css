@@ -15,8 +15,16 @@ letter-spacing: 2px;
     color: navy;
 }
 
+#textshadow{
+    text-shadow: 3px 3px 6px;color: blue;
+}
+
 #textshadow p {
     text-shadow: 3px 3px 6px;color: blue;
+}
+
+#Spook{
+    background-color: blueviolet;
 }
 
 #Spook+p{
@@ -27,8 +35,15 @@ letter-spacing: 2px;
 
 }
 
+#Spook0{
+    background-color: rgb(255, 0, 0);
+    border-style: ridge;color: rgb(98, 0, 255);
+
+}
+
 #Spook0+h2{
-background-color: blueviolet;
+background-color: rgb(60, 255, 0);
+border-style: ridge;color: chartreuse;
 
 }
 
@@ -38,4 +53,16 @@ border-style: groove;
 letter-spacing: 25px;
 text-shadow: 3px 3px 6px;color: crimson;
 background-color: blue;
+}
+
+article>p{
+    border-style: groove;color: chartreuse;
+    background-color: black;
+}
+
+article>h2{
+letter-spacing: 100px;
+border-style: double;color: gold;
+border-radius: 10px;
+background-color: aqua;
 }
